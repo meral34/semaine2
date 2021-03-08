@@ -1,0 +1,22 @@
+h1{
+    color:blue;
+    font-size: 50px;
+}
+
+/*color permet de changer la couleur du texte*/
+/*font-weight permet de mettre du gras à un texte*/
+/*font-size permet d' ajuster la taille du texte*/ 
+ol{
+    font-weight: bold;
+    background-color: red;
+}
+li{
+    color: green;
+}
+.image1{
+    width:100px;
+}
+
+.image2{
+    width: 300px;
+} 
